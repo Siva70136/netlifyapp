@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/netlifyapp/static/css/main.0d4a2c39.css",
-    "main.js": "/netlifyapp/static/js/main.bf234d70.js",
+    "main.css": "/netlifyapp/static/css/main.db17c3eb.css",
+    "main.js": "/netlifyapp/static/js/main.e5f88fdd.js",
     "static/js/787.eaf6a9a2.chunk.js": "/netlifyapp/static/js/787.eaf6a9a2.chunk.js",
     "index.html": "/netlifyapp/index.html",
-    "main.0d4a2c39.css.map": "/netlifyapp/static/css/main.0d4a2c39.css.map",
-    "main.bf234d70.js.map": "/netlifyapp/static/js/main.bf234d70.js.map",
+    "main.db17c3eb.css.map": "/netlifyapp/static/css/main.db17c3eb.css.map",
+    "main.e5f88fdd.js.map": "/netlifyapp/static/js/main.e5f88fdd.js.map",
     "787.eaf6a9a2.chunk.js.map": "/netlifyapp/static/js/787.eaf6a9a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d4a2c39.css",
-    "static/js/main.bf234d70.js"
+    "static/css/main.db17c3eb.css",
+    "static/js/main.e5f88fdd.js"
   ]
 }
